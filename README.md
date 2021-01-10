@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 -->
 
 I'm a Colombian software engineer based in Brooklyn, NY. I’m currently working on Serverless observability at Datadog.
+
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Czechh)](https://github.com/anuraghazra/github-readme-stats)
